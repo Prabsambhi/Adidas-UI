@@ -1,0 +1,40 @@
+body {
+    background-color: white;
+}
+
+.mx-16.mb-10.mt-8.overflow-x-auto::-webkit-scrollbar {
+    height: 4px;
+}
+
+.mx-16.mb-10.mt-8.overflow-x-auto::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.mx-16.mb-10.mt-8.overflow-x-auto::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+.mx-16.mb-10.mt-8.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    cursor:grab;
+    height: 20px;
+  }
+
+
+  .mx-16.mb-20.mt-8.overflow-x-auto::-webkit-scrollbar {
+    height: 4px;
+}
+
+.mx-16.mb-20.mt-8.overflow-x-auto::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.mx-16.mb-20.mt-8.overflow-x-auto::-webkit-scrollbar-thumb {
+    background: #000000;
+}
+
+.mx-16.mb-20.mt-8.overflow-x-auto::-webkit-scrollbar-thumb:hover {
+    background: #555;
+    cursor:grab;
+    height: 20px;
+  }
